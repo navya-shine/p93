@@ -1,6 +1,9 @@
 #login{
     background-color:turquoise;
     text-align: center;
+    left: 400px;
+    right: 400px;
+    top: 120px;
 }
 body{
     text-align: center;
